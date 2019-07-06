@@ -1,0 +1,63 @@
+.dark{
+	background: #bcbcbc;
+}
+.dark .navbar-custom .navbar-toggle .icon-bar {
+	background: #303030;
+}
+.dark .navbar-custom,.dark .bg-blue{
+	background: #303030;
+}
+.dark .bg-gray{
+	background: #a1a1a1;
+}
+.dark .list-group-item-custom{
+	background: #a1a1a1;
+}
+.dark .list-group-item-custom:hover{
+	background: #303030;
+}
+.dark a.list-group-item-custom:focus, .dark a.list-group-item-custom:hover, .dark button.list-group-item-custom:focus, .dark button.list-group-item-custom:hover {
+	text-decoration: none;
+	color: #fff;
+	background-color: #303030;
+	border-color: #fff;
+}
+.dark .nav-custom li.active> a{
+	background: #303030;
+	color: #fff!important;
+}
+.dark .nav-custom li a{
+	color: #fff;
+}
+.dark .nav-custom li a:hover{
+	background: #a1a1a1;
+	color: #000;
+}
+.dark .nav-custom li a:focus{
+	background: #303030;
+	color: #fff;
+}
+.dark .dropdown-menu a{
+	color: #000;
+}
+.dark .list-group-item{
+	background: #a1a1a1;
+	border-color: #000;
+}
+.dark #homework-list-content-block a .media{
+	background: #a1a1a1;
+}
+.dark #homework-list-content-block a .media:hover{
+	background: #303030;
+	color: #fff;
+}
+.dark .thumbnail:hover{
+	background: #303030;
+	color: #fff!important;
+}
+.dark .dropdown-menu>li>a{
+	color: #fff;
+}
+.dark .dropdown-menu>li>a:hover{
+	color: #333;
+}
